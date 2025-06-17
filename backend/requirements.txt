@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+redis
+sqlalchemy
+psycopg2-binary
+transformers
+google-generativeai
+elasticsearch
+python-dotenv
